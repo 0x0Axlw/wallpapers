@@ -1,0 +1,14 @@
+# Generated image derivatives
+previews/
+thumbnails/
+
+# Generated metadata cache; manifest.json is the public file we need
+wallpapers.json
+
+# Python junk
+__pycache__/
+*.pyc
+.venv/
+
+# OS junk
+.DS_Store
